@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "task": "buy some egss and milks",
+      "is_complete": false
+    },
+    {
+      "id": 2,
+      "task": "buy sandals",
+      "is_complete": true
+    },
+    {
+      "id": 3,
+      "task": "go to pet shop",
+      "is_complete": false
+    }
+  ]
+}
